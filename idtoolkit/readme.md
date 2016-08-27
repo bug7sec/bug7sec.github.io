@@ -30,7 +30,7 @@ Copyright (c) 2016 BUG7SEC. All rights reserved.
 * Mr.k
 * Mbah Roni
 * Inyu
-* FathurFreak
+* FathurFreakz
 * Jones1377
 * lastc0de
 * Agus Setya R  
