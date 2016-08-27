@@ -9,7 +9,7 @@
       "DB upload": "DB\/wp-upload.db",
       "DB wordpress version": "DB\/wp-version.db",
       "Package Action": "package\/class.action.php",
-      "Package Config": "package\/class.config.php",
+      "Package Config": "class.config.php",
       "Package Engine": "package\/class.engine.php",
       "Master IDTookit": "IDTookit.php"
     },
