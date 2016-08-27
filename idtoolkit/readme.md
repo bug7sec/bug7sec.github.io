@@ -39,4 +39,5 @@ Copyright (c) 2016 BUG7SEC. All rights reserved.
 * Tintonz
 * Mr. Error 404
 * K3C0T
+* Anzhi72
 * and all that I can not mention one by one
