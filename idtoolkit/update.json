@@ -1,0 +1,26 @@
+{
+  "url": "https:\/\/bug7sec.github.io\/idtoolkit\/1.0.2\/",
+  "required": {
+    "file": {
+      "DB user-agent": "DB\/user-agent.db",
+      "DB wordpress plugin": "DB\/wp-plugin.db",
+      "DB shell": "DB\/wp-shell.db",
+      "DB wordpress theme": "DB\/wp-theme.db",
+      "DB upload": "DB\/wp-upload.db",
+      "DB wordpress version": "DB\/wp-version.db",
+      "Package Action": "package\/class.action.php",
+      "Package Config": "package\/class.config.php",
+      "Package Engine": "package\/class.engine.php",
+      "Master IDTookit": "IDTookit.php"
+    },
+    "dir": [
+      "DB",
+      "package",
+      "engine",
+      "engine\/result",
+      "engine\/temp",
+      "report"
+    ]
+  },
+  "version": "1.0.2"
+}
