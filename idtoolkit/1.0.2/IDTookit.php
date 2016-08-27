@@ -80,5 +80,4 @@ if( $command['dork'] && $command['input']['1'] == "--full" ){
 if( $command['input']['1'] == "--from-db" && $command['input']['2'] == "--test"){
 	$action->testbyDB();
 }
-
 ?>

@@ -106,10 +106,11 @@ class ShcConfig
 				if( rmdir($value) ){
 					$this->pesan("-> Remove File ".$value);
 				}
-				if( file_put_contents($value, $this->updateGET($update['url'].$value) ) ){
-					$this->pesan("-> Update File :  ".$key." +Success");
+					$url = $update['url'].$value;
+				if( file_put_contents( $value, file_get_contents($url) ) ){
+					$this->pesan("-> Download :  ".$key." | ".$url." [OK]");
 				}else{
-					$this->pesan("-> Update File :  ".$key." +Failed");
+					$this->pesan("-> Download :  ".$key." | ".$url." [FAIL]");
 				}
 			}
 				$this->pesan("[UPDATE] Update Success ".date("Y-m-d h:i:sa"));
@@ -142,7 +143,6 @@ class ShcConfig
 		echo "-[> DB Themes    : ".$this->dbCount("wp-theme.db","|")." wp themes\r\n";
 		echo "-[> Version      : ".$this->ver."\r\n";
 		echo "-[> Last Update  : ".$this->last."\r\n";
-		echo "-[> Author By    : SHOR7CUT\r\n";
 		echo "-------------------------------------------------\r\n";
 		echo "[Command] php ".basename($_SERVER["SCRIPT_FILENAME"], '.php').".php --help\r\n\n";
 	}
