@@ -19,7 +19,7 @@ Copyright (c) 2016 BUG7SEC. All rights reserved.
 * Surabaya Blackhat
 * Indonesia Security Down
 * All Indonesia underground
-* 
+
 #  Spesial 
 * Lalyt666
 * hbd
@@ -32,4 +32,11 @@ Copyright (c) 2016 BUG7SEC. All rights reserved.
 * FathurFreak
 * Jones1377
 * lastc0de
+* Agus Setya R  
+* Tu5b0l3d
+* Nabilaholic404
+* Mr. Xenophobic
+* Tintonz
+* Mr. Error 404
+* K3C0T
 * and all that I can not mention one by one
