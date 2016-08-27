@@ -13,6 +13,7 @@ Copyright (c) 2016 BUG7SEC. All rights reserved.
 #  Thank's
 * Bug7sec Team
 * Tuban Cyber Team
+* IndoXploit Coders Team
 * Defacer Tersakiti
 * SystemR0ot Team
 * Sec7or Team
@@ -41,3 +42,6 @@ Copyright (c) 2016 BUG7SEC. All rights reserved.
 * K3C0T
 * Anzhi72
 * and all that I can not mention one by one
+
+#Thank's For articel 
+* Linuxsec.org
