@@ -98,6 +98,7 @@ class Action
 					exit();
 				}
 			}
+			Action::Msg("[UPDATE] Welcome ".$CheckJson[codename]." ^_^.");
 		}
 	}
 
